@@ -8,7 +8,7 @@
 
 | # | Lab | Status |
 |---|-----|--------|
-| 01 | [Network Setup & Nmap Scanning](./lab1-network-scan/) | ✅ Complete |
+| 01 | [Network Setup & Nmap Scanning](./llab1-network-setup-nmap/) | ✅ Complete |
 | 02 | [SSH Brute Force Attack & Log Analysis](./lab2-ssh-bruteforce-log-analysis/) | ✅ Complete |
 | 03 | Coming Soon | 🔜 Upcoming |
 
