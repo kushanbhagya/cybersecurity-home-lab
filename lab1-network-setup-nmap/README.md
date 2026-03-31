@@ -1,4 +1,5 @@
-# 🛡️ Cybersecurity Home Lab - Network Setup & Nmap Scanning
+
+# 🔹 Lab 1: Network Setup & Nmap Scanning
 
 > *A hands-on virtual environment for practicing offensive and defensive security techniques.*
 
@@ -20,6 +21,8 @@
   - [8. Web Technology Detection](#8️⃣-web-technology-detection)
 - [Troubleshooting](#️-errors--troubleshooting)
 - [Results & Key Learnings](#-results)
+- [Attack Flow](#-attack-flow)
+- [Skills Demonstrated](#-skills-demonstrated)
 - [Conclusion](#-conclusion)
 
 ---
@@ -170,7 +173,7 @@ http://192.168.248.128
 
 ### 8️⃣ Web Technology Detection
 
-`WhatWeb` was used to fingerprint the technologies running on the target web server — a common step in real-world web application reconnaissance.
+`WhatWeb` was used to fingerprint the technologies running on the target web server a common step in real-world web application reconnaissance.
 
 ```bash
 whatweb http://192.168.248.128
@@ -214,7 +217,7 @@ Two adapter types were used in combination to balance isolation and internet acc
 
 ![NAT Adapter](images/14-nat-adapter2.png)
 
-> Combining both adapters created a realistic and flexible lab network — isolated for security testing, yet internet-accessible for package management.
+> Combining both adapters created a realistic and flexible lab network isolated for security testing, yet internet-accessible for package management.
 
 ---
 
@@ -227,6 +230,29 @@ Two adapter types were used in combination to balance isolation and internet acc
 | Web Service Detected | ✅ Apache HTTP Server |
 | Inter-VM Communication | ✅ Verified via ping |
 | Web Fingerprinting | ✅ WhatWeb successfully identified stack |
+
+---
+
+## 🧪 Attack Flow
+
+1. Configure lab network and assign IP addresses
+2. Verify connectivity using ping
+3. Perform network scanning using Nmap
+4. Identify active hosts and open ports
+5. Detect services running on target machines
+6. Access Apache web server from Kali Linux
+7. Perform web technology detection using WhatWeb
+
+---
+
+## 💡 Skills Demonstrated
+
+- Network configuration and troubleshooting
+- IP addressing and subnetting
+- Network scanning using Nmap
+- Service enumeration and analysis
+- Web reconnaissance using WhatWeb
+- Basic attacker methodology (reconnaissance phase)
 
 ---
 
@@ -245,7 +271,7 @@ Two adapter types were used in combination to balance isolation and internet acc
 
 ## 🚀 Conclusion
 
-This lab provided practical, hands-on experience in building an isolated cybersecurity environment and performing foundational reconnaissance tasks. The skills practiced here — network configuration, host discovery, service enumeration, and web fingerprinting — are directly applicable to both **penetration testing** and **security monitoring** roles.
+This lab provided practical, hands-on experience in building an isolated cybersecurity environment and performing foundational reconnaissance tasks. The skills practiced here network configuration, host discovery, service enumeration, and web fingerprinting, are directly applicable to both **penetration testing** and **security monitoring** roles.
 
 ---
 
@@ -259,6 +285,6 @@ This lab provided practical, hands-on experience in building an isolated cyberse
 
 <div align="center">
 
-**Built for learning. Designed for defenders.**  
+*🔴 Lab 1 - Network Setup & Nmap Scanning · Cybersecurity Home Lab Series*
 
 </div>
