@@ -284,6 +284,6 @@ This lab provided practical, hands-on experience in building an isolated cyberse
 
 <div align="center">
 
-**Built for learning. Designed for defenders.**  
+*🔴 Lab 1 - Network Setup & Nmap Scanning · Cybersecurity Home Lab Series*
 
 </div>
