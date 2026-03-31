@@ -1,4 +1,4 @@
-# 🔴 Lab 2: SSH Brute Force Attack & Log Analysis
+# 🔹 Lab 2: SSH Brute Force Attack & Log Analysis
 
 > *Simulate an SSH brute force attack from Kali Linux against an Ubuntu server, then detect it through authentication log analysis.*
 
