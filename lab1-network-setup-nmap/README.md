@@ -1,5 +1,5 @@
 
-# 🔹 Lab 1: Network Setup & Nmap Scanning
+# 🔵 Lab 1: Network Setup & Nmap Scanning
 
 > *A hands-on virtual environment for practicing offensive and defensive security techniques.*
 
@@ -285,6 +285,6 @@ This lab provided practical, hands-on experience in building an isolated cyberse
 
 <div align="center">
 
-*🔴 Lab 1 - Network Setup & Nmap Scanning · Cybersecurity Home Lab Series*
+*🔵 Lab 1 - Network Setup & Nmap Scanning · Cybersecurity Home Lab Series*
 
 </div>
