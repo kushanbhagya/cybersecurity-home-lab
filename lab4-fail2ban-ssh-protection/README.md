@@ -32,7 +32,7 @@
 
 ## 🎯 Objective
 
-Configure **Fail2Ban** on an Ubuntu Server to automatically detect and block SSH brute force attacks — banning the attacker's IP after a defined number of failed login attempts, and verifying the block from the Kali Linux attacker machine.
+Configure **Fail2Ban** on an Ubuntu Server to automatically detect and block SSH brute force attacks banning the attacker's IP after a defined number of failed login attempts, and verifying the block from the Kali Linux attacker machine.
 
 ---
 
@@ -302,7 +302,7 @@ ssh testuser@192.168.248.128
 
 > **Fail2Ban only triggers when the failure threshold is reached within the time window.**
 >
-> If the correct password is found before `maxretry` failures occur, no ban is issued — highlighting why **strong, unique passwords** and **key-based authentication** are essential complements to Fail2Ban.
+> If the correct password is found before `maxretry` failures occur, no ban is issued, highlighting why **strong, unique passwords** and **key-based authentication** are essential complements to Fail2Ban.
 
 ---
 
@@ -340,14 +340,14 @@ ssh testuser@192.168.248.128
 - ✅ Fail2Ban is highly effective against automated brute force attacks
 - ✅ Proper configuration of `maxretry`, `bantime`, and `findtime` is critical
 - ✅ The tool relies on **failed** attempts a successful early login bypasses it
-- ✅ Logs are the foundation of automated detection keeping them clean matters
+- ✅ Logs are the foundation of automated detection; keeping them clean matters
 - ✅ Fail2Ban should be combined with strong passwords and SSH key auth for full protection
 
 ---
 
 ## 🚀 Conclusion
 
-This lab demonstrated how **Fail2Ban** can be configured to automatically detect and block SSH brute force attacks in real time. By combining log analysis, behavioral thresholds, and automated firewall rules, Fail2Ban provides a practical and effective first line of defense replicating defensive techniques used in real-world production systems.
+This lab demonstrated how **Fail2Ban** can be configured to automatically detect and block SSH brute force attacks in real time. By combining log analysis, behavioral thresholds, and automated firewall rules, Fail2Ban provides a practical and effective first line of defense, replicating defensive techniques used in real-world production systems.
 
 ---
 
