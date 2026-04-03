@@ -12,7 +12,8 @@
 | 02 | [SSH Brute Force Attack & Log Analysis](./lab2-ssh-bruteforce-log-analysis/) | ✅ Complete |
 | 03 | [Network Traffic Analysis using Wireshark](./lab3-wireshark-traffic-analysis/) | ✅ Complete |
 | 04 | [Preventing SSH Brute Force Attacks using Fail2Ban](./lab4-fail2ban-ssh-protection/) | ✅ Complete |
-| 05 | Coming Soon | 🔜 Upcoming |
+| 05 | [Detecting Port Scanning using Nmap and Wireshark](./lab5-port-scan-detection/) | ✅ Complete |
+| 06 | Coming Soon | 🔜 Upcoming |
 
 ---
 
