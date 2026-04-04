@@ -313,7 +313,7 @@ ssh testuser@192.168.248.128
 
 ## 🚀 Conclusion
 
-This lab demonstrated a complete **detect-and-respond pipeline** against port scanning attacks. By configuring UFW to log blocked traffic and Fail2Ban to automatically parse those logs and ban offending IPs, the Ubuntu server was able to identify and neutralize the attacker without any manual intervention — reflecting a key principle of modern automated security operations.
+This lab demonstrated a complete **detect-and-respond pipeline** against port scanning attacks. By configuring UFW to log blocked traffic and Fail2Ban to automatically parse those logs and ban offending IPs, the Ubuntu server was able to identify and neutralize the attacker without any manual intervention, reflecting a key principle of modern automated security operations.
 
 ---
 
