@@ -14,7 +14,8 @@
 | 04 | [Preventing SSH Brute Force Attacks using Fail2Ban](./lab4-fail2ban-ssh-protection/) | ✅ Complete |
 | 05 | [Detecting Port Scanning using Nmap and Wireshark](./lab5-port-scan-detection/) | ✅ Complete |
 | 06 | [Detect and Block Port Scanning using UFW + Fail2Ban](./lab6-portscan-detection-blocking/) | ✅ Complete |
-| 07 | Coming Soon | 🔜 Upcoming |
+| 07 | [Web Attack Detection using Apache Logs](./lab7-web-attack-detection-apache-logs/) | ✅ Complete |
+| 08 | Coming Soon | 🔜 Upcoming |
 
 ---
 
