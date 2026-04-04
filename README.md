@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Home Lab
 
-> *A progressive, hands-on series of cybersecurity labs built in a controlled virtual environment — covering reconnaissance, enumeration, exploitation, and defense.*
+> *A progressive, hands-on series of cybersecurity labs built in a controlled virtual environment covering reconnaissance, enumeration, exploitation, and defense.*
 
 ---
 
