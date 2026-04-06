@@ -266,7 +266,7 @@ New line written to /var/log/apache2/access.log
 
 ## 🚀 Conclusion
 
-This lab demonstrated how to build a real-time web attack alerting system using nothing more than a Bash script and Apache's built-in access logging. The system successfully detected Gobuster's directory brute-force attack the moment it started — generating instant, actionable alerts that simulate the core behavior of a SOC monitoring workflow. This approach is directly scalable into more advanced detection pipelines using tools like **Splunk**, **ELK Stack**, or **Wazuh**.
+This lab demonstrated how to build a real-time web attack alerting system using nothing more than a Bash script and Apache's built-in access logging. The system successfully detected Gobuster's directory brute-force attack the moment it started generating instant, actionable alerts that simulate the core behavior of a SOC monitoring workflow. This approach is directly scalable into more advanced detection pipelines using tools like **Splunk**, **ELK Stack**, or **Wazuh**.
 
 ---
 
