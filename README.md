@@ -16,7 +16,8 @@
 | 06 | [Detect and Block Port Scanning using UFW + Fail2Ban](./lab6-portscan-detection-blocking/) | ✅ Complete |
 | 07 | [Web Attack Detection using Apache Logs](./lab7-web-attack-detection-apache-logs/) | ✅ Complete |
 | 08 | [Real-Time Log Alerting using Apache Logs](./lab8-real-time-log-alerting/) | ✅ Complete |
-| 09 | Coming Soon | 🔜 Upcoming |
+| 09 | [Reverse Shell Detection using Network and Process Monitoring](./lab9-reverse-shell-detection/) | ✅ Complete |
+| 10 | Coming Soon | 🔜 Upcoming |
 
 ---
 
