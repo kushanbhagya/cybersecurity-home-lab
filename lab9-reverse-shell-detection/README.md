@@ -1,6 +1,6 @@
 # 🐚 Lab 9: Reverse Shell Detection using Network and Process Monitoring
 
-> *Simulate a reverse shell attack where the victim machine initiates a connection back to the attacker — then detect it through network connection analysis, process inspection, packet capture, and automated alerting.*
+> *Simulate a reverse shell attack where the victim machine initiates a connection back to the attacker, then detect it through network connection analysis, process inspection, packet capture, and automated alerting.*
 
 ---
 
