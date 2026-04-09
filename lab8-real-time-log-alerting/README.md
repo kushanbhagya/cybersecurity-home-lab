@@ -255,8 +255,8 @@ New line written to /var/log/apache2/access.log
 
 ## 📘 Key Learnings
 
-- ✅ Web enumeration attacks produce **consistent, detectable log patterns** — they can't hide in access logs
-- ✅ `tail -Fn0` is the right flag for **live log following** — it only reads new lines, not old history
+- ✅ Web enumeration attacks produce **consistent, detectable log patterns** they can't hide in access logs
+- ✅ `tail -Fn0` is the right flag for **live log following** it only reads new lines, not old history
 - ✅ A simple Bash script can replicate the **core logic of a SIEM detection rule**
 - ✅ Real-time alerting dramatically reduces **mean time to detect (MTTD)**
 - ✅ Lightweight custom scripts are valuable in environments **without enterprise security tooling**
