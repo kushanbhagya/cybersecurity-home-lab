@@ -1,6 +1,6 @@
 # 🚨 Lab 8: Real-Time Log Alerting using Apache Logs
 
-> *Build a custom Bash-based alerting system that monitors Apache access logs in real time — instantly flagging suspicious web activity and simulating a lightweight SOC detection workflow.*
+> *Build a custom Bash-based alerting system that monitors Apache access logs in real time, instantly flagging suspicious web activity and simulating a lightweight SOC detection workflow.*
 
 ---
 
