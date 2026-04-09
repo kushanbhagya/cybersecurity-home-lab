@@ -1,6 +1,6 @@
 # 🌐 Lab 7: Web Attack Detection using Apache Logs
 
-> *Simulate a web directory brute-force attack using Gobuster, then detect and analyze the attack in real time by monitoring Apache access logs — identifying the attacker, their tools, and their targets.*
+> *Simulate a web directory brute-force attack using Gobuster, then detect and analyze the attack in real time by monitoring Apache access logs, identifying the attacker, their tools, and their targets.*
 
 ---
 
