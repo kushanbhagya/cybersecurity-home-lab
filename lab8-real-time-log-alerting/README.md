@@ -152,7 +152,7 @@ chmod +x alert.sh
 
 ### 3️⃣ Run the Alert Script
 
-The alerting script was started on the Ubuntu defender **before** launching the attack — ensuring all incoming requests are monitored from the start.
+The alerting script was started on the Ubuntu defender **before** launching the attack, ensuring all incoming requests are monitored from the start.
 
 ```bash
 ./alert.sh
